@@ -1,0 +1,30 @@
+1. Concessão de Licença de Uso
+O presente software foi desenvolvido exclusivamente por Natanael Flores Martins, e é cedido, em caráter não exclusivo, à empresa SUPERMERCADOS GUANABARA, unicamente durante o período em que o autor mantiver vínculo formal com a referida empresa, seja por contrato de trabalho ou prestação de serviços.
+
+Caso qualquer uma das partes rescinda o vínculo trabalhista ou contratual, o autor, no exercício de seus direitos, poderá retirar o software da rede da empresa, cessando imediatamente a licença de uso concedida, sem que tal ato implique em qualquer direito a compensações ou indenizações para a empresa. A retirada do software poderá ocorrer a qualquer momento após o término da relação contratual.
+
+A utilização, reprodução, modificação, distribuição, sublicenciamento ou qualquer outra forma de exploração deste software, total ou parcial, não será permitida após o encerramento do referido vínculo, salvo mediante autorização expressa e por escrito do autor.
+
+2. Restrições de Uso
+É expressamente vedado o uso deste software para fins comerciais externos à SUPERMERCADOS GUANABARA, bem como sua aplicação em unidades diversas da empresa, sem o consentimento prévio e formal do autor.
+
+Fica proibida a revenda, sublicenciamento, cessão ou redistribuição do software, sob qualquer forma, a terceiros.
+
+3. Direitos Autorais
+O autor se reserva todos os direitos morais e patrimoniais sobre o código-fonte, nos termos da Lei de Direitos Autorais (Lei nº 9.610/98).
+
+Qualquer versão modificada ou adaptada deste software, desde que devidamente autorizada, deverá manter expressamente a identificação da autoria original de Natanael Flores Martins.
+
+4. Isenção de Garantias
+Este software é fornecido "no estado em que se encontra", sem garantias de funcionamento contínuo, suporte técnico ou atualizações, salvo se houver acordo específico e formal entre as partes.
+
+5. Cláusula Resolutiva
+O descumprimento de quaisquer das condições aqui estabelecidas, bem como o uso indevido do software ou a violação dos direitos autorais, poderá ensejar a revogação imediata da licença de uso por parte do autor, sem prejuízo das medidas legais cabíveis.
+
+6. Contato para Autorizações
+Para solicitações de uso após o encerramento do vínculo contratual, ou para qualquer outro fim que extrapole os limites aqui definidos nesses termos, deverá ser feito contato diretamente com o autor através do e-mail:
+
+📧 natanaelfmartins7890@hotmail.com 
+
+
+© 2025 Quark CO. Todos os direitos reservados.
